@@ -2,26 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shishir Adhikari</title>
-    <link>https://itsmeccr.github.io/</link>
+    <link>https://sadhik9.people.uic.edu/</link>
     <description>Recent content on Shishir Adhikari</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://itsmeccr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://sadhik9.people.uic.edu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://itsmeccr.github.io/contact/</link>
+      <link>https://sadhik9.people.uic.edu/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itsmeccr.github.io/contact/</guid>
+      <guid>https://sadhik9.people.uic.edu/contact/</guid>
       <description> Email: sadhik9 [at] uic [dot] edu Github   Social  Linkedin Twitter  </description>
     </item>
     
     <item>
       <title>Shishir Adhikari</title>
-      <link>https://itsmeccr.github.io/about/</link>
+      <link>https://sadhik9.people.uic.edu/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://itsmeccr.github.io/about/</guid>
-      <description>About Me  I am a Ph.D. student in the Department of Computer Science at the University of Illinois at Chicago (UIC). I am working under the supervision of professor Elena Zheleva in the EDGES lab. My research interests lie at the intersection of Causal Inference, Knowledge Discovery, and Machine Learning. Currently, I am working on causal discovery from healthcare data and heterogeneous treatment effect estimation.
-I completed my Bachelor&amp;rsquo;s degree in Electronics and Communication Engineering from the Tribhuvan University, Nepal.</description>
+      <guid>https://sadhik9.people.uic.edu/about/</guid>
+      <description>About Me  I am a Ph.D. candidate in the Department of Computer Science at the University of Illinois Chicago (UIC). I am working under the supervision of professor Elena Zheleva in the EDGES lab, a statistical relational learning and data science lab. My research interests lie at the intersection of Causal Inference, Knowledge Discovery, and Machine Learning. Currently, I am working on causal modeling and heterogeneous treatment effect estimation in network data.</description>
     </item>
     
   </channel>
