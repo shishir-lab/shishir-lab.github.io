@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shishir Adhikari</title>
-    <link>https://sadhik9.people.uic.edu/</link>
+    <link>https://shishir-lab.github.io/</link>
     <description>Recent content on Shishir Adhikari</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://sadhik9.people.uic.edu/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://shishir-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://sadhik9.people.uic.edu/contact/</link>
+      <link>https://shishir-lab.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sadhik9.people.uic.edu/contact/</guid>
+      <guid>https://shishir-lab.github.io/contact/</guid>
       <description> Email: sadhik9 [at] uic [dot] edu Github   Social  Linkedin Twitter  </description>
     </item>
     
     <item>
       <title>Shishir Adhikari</title>
-      <link>https://sadhik9.people.uic.edu/about/</link>
+      <link>https://shishir-lab.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sadhik9.people.uic.edu/about/</guid>
+      <guid>https://shishir-lab.github.io/about/</guid>
       <description>About Me  I am a Ph.D. candidate in the Department of Computer Science at the University of Illinois Chicago (UIC). I am working under the supervision of professor Elena Zheleva in the EDGES lab, a statistical relational learning and data science lab. My research interests lie at the intersection of Causal Inference, Knowledge Discovery, and Machine Learning. Currently, I am working on causal modeling and heterogeneous treatment effect estimation in network data.</description>
     </item>
     
